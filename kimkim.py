@@ -6,4 +6,3 @@ b = int(input("Give me your soul number => "))
 
 
 
-git 
